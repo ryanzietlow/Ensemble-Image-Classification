@@ -1,0 +1,14 @@
+alex net was batch size 1400
+vgg batch = 70
+res net = 350
+
+patience of 50 epochs
+
+# training command for alexnet
+python .\training.py -model alexnet -b 1400 -p 50
+
+# training command for resnet
+python .\training.py -model resnet18 -b 350 -p 50
+
+# training command for vgg
+python .\training.py -model vgg16 -b 70 -p 50

@@ -1,0 +1,9 @@
+Training Summary:
+Time taken for first 5 epochs: 0:19:55.958268
+Total training time: 4:40:40.514169
+Final learning rate: 0.000000
+Best validation loss: 1.1021
+Total epochs trained: 69
+Model saved as resnet18_best.pth
+Batch size: 350
+Training complete for resnet18.

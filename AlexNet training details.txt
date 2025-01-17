@@ -1,0 +1,9 @@
+Training Summary:
+Time taken for first 5 epochs: 0:04:23.270589
+Total training time: 1:01:06.129222
+Final learning rate: 0.000000
+Best validation loss: 1.9590
+Total epochs trained: 72
+Model saved as alexnet_best.pth
+Batch size: 1400
+Training complete for alexnet.

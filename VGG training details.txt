@@ -1,0 +1,16 @@
+4 46
+23
+
+
+Early stopping triggered at epoch 75 for vgg16
+Best validation loss: 1.7942
+
+Training Summary:
+Time taken for first 5 epochs: 0:25:54.542463
+Total training time: 6:26:35.905691
+Final learning rate: 0.001000
+Best validation loss: 1.7942
+Total epochs trained: 75
+Model saved as vgg16_best.pth
+Batch size: 70
+Training complete for vgg16.
